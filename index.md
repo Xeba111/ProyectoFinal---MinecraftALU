@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Proyecto Final
+- Joel del Castillo 
+- Sebastián Mena
+- Camila Zambrano
 
 You can use the [editor on GitHub](https://github.com/Xeba111/ProyectoFinal---MinecraftALU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
