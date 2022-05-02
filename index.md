@@ -4,17 +4,14 @@ Grupo compuesto por:
 - Sebastián Mena
 - Camila Zambrano
 
-You can use the [editor on GitHub](https://github.com/Xeba111/ProyectoFinal---MinecraftALU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Minecraft
 
-Minecraft es un juego publicado por Notch
+Minecraft es un juego creado por Markus Persson, más conocido como Notch, y posteriormente desarrollado por Mojang Studios, para finalmente ser comprado en su totalidad por Microsoft en 2014. El juego tiene una estructura sandbox, donde el jugador es capáz de modificar el terreno mientras construye estructuras a su voluntad.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Redstone
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Uno de los recursos disponibles en Minecraft es la Redstone. 
 
 ```markdown
 Syntax highlighted code block
