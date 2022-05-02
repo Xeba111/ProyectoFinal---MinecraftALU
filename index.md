@@ -1,9 +1,14 @@
 ## Proyecto Final
+Grupo compuesto por: 
 - Joel del Castillo 
 - Sebastián Mena
 - Camila Zambrano
 
 You can use the [editor on GitHub](https://github.com/Xeba111/ProyectoFinal---MinecraftALU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+### Minecraft
+
+Minecraft es un juego publicado por Notch
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
