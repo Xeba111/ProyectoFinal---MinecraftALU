@@ -13,6 +13,8 @@ Minecraft es un juego creado por Markus Persson, más conocido como Notch, y pos
 
 Uno de los recursos disponibles en Minecraft es la Redstone. Este recurso que se obtiene en forma de 'polvo' es capáz de transmitir señales y darle poder a otros bloques que se encuentran el el juego. Funciona de manera similar al binario, donde un elemento solo puede tener dos valores, prendido o apagado.
 
+![pack2733](https://user-images.githubusercontent.com/72953477/166343647-7469275a-2b7b-4127-80f6-f3422f2d7d4e.png)
+
 ```markdown
 Syntax highlighted code block
 
