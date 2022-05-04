@@ -117,7 +117,7 @@ Our project consists of a functional **16-bit ALU** in Minecraft. All the proces
 
 ### Implementation (without flags)
 
-![ALU](./Images/ALU/ALUNoFLAGS.png)
+![ALU](./Images/ALU/ALUNoFlags.png)
 
 ### Implementation (complete)
 
