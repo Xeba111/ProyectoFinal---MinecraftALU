@@ -94,3 +94,14 @@ Nuestro proyecto consiste en un **ALU de 16 bits** funcional en Minecraft. Todos
 
 ![FULL](./Images/FULL/10.png)
 ![FULL](./Images/FULL/11.png)
+
+## Adder SUBSTRACTER
+
+### Theory
+
+![SUBSTRACT](https://user-images.githubusercontent.com/72953477/166628898-ce48b125-a54e-4543-b40e-f13c571d35ed.jpeg)
+
+## COMPACT Full Adder
+
+![COMPACT](https://user-images.githubusercontent.com/72953477/166628992-962869aa-0221-4cba-b374-f7ada3e21cd8.jpeg)
+
