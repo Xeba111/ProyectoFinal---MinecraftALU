@@ -107,9 +107,21 @@ Nuestro proyecto consiste en un **ALU de 16 bits** funcional en Minecraft. Todos
 
 ## FINAL ALU
 
+### Graphic
+
+![Graphic](https://user-images.githubusercontent.com/72953477/166629624-b9ef406a-9345-455d-9c24-f465fc88922d.jpeg)
+
 ### No flags
 
 ![No Flags 1](https://user-images.githubusercontent.com/72953477/166629229-e543672b-77f8-43a2-a976-cda50bf414b2.jpeg)
 
 ![No flags 2](https://user-images.githubusercontent.com/72953477/166629271-b007997b-798f-4f3e-bf3c-14008ac20e0b.jpeg)
+
+### With flags (Complete)
+
+![Complete](https://user-images.githubusercontent.com/72953477/166629698-9eaaef1a-e83e-497c-84e9-e2ea12a160ff.jpeg)
+
+![Complete2](https://user-images.githubusercontent.com/72953477/166629722-48313db7-0f9d-4ea5-8ca0-9f9c6465d252.jpeg)
+
+![Complete3](https://user-images.githubusercontent.com/72953477/166629752-e8f66ac3-fd04-49be-b307-4618622283f4.jpeg)
 
